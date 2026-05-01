@@ -1,0 +1,39 @@
+# Keil 自动生成文件（无需版本控制）
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.dep
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.d
+*.o
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.sct
+*.lnp
+*.htm
+
+# 编译输出目录
+Objects/
+Listings/
+Debug/
+Release/
+
+# J-Link 调试文件
+JLinkLog.txt
+JLinkSettings.ini
